@@ -1,20 +1,31 @@
-# TITLE 
+# FINTECH CASE STUDY
+* By Jean-Pierre Koudifo
+* Date: 09-24-2021
+* Frintech Domain: Lending (Peer to Peer Lending)
+#
+
+
+# KIVA
 
 ## Overview and Origin
 
-* Name of company
+ Kiva is a 501 non-profit organization headquartered in San Francisco, California, that allows people to lend money via the Internet to low-income entrepreneurs and students in 77 countries. Kiva's mission is "to expand financial access to help underserved communities thrive
 
-* When was the company incorporated?
+* Date incorporated: October 2005
+* Headquarter: San Francisco with offices in Bangkok, Nairobi, Portland and staff around the globe.
 
-* Who are the founders of the company?
+* Founder: Jessica Jackley, Premal Shah, Matt Flannery, Chelsa Bocci
+
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+* Endowment: $27,389,839
+
 
 
 ## Business Activities:
 
+* What makes Kiva unique is that they believe lending alongside thousands of others is one of the most powerful and sustainable ways to create economic and social good. 
 * What specific financial problem is the company or project trying to solve?
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
