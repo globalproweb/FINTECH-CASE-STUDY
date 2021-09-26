@@ -56,9 +56,36 @@ What solution does this company offer that their competitors do not or cannot of
 
 ## Results
 
-* What has been the business impact of this company so far?
+* Business Impacts 
+   * Kiva crowdfunding loans is unlocking capital for the underserved, improving the quality and cost of financial services, and addressing the underlying barriers to financial access around the world. 
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+   * Through Kiva's work, students can pay for tuition, women can start businesses, farmers are able to invest in equipment and families can afford needed emergency care.
+
+
+* Key Metrics 
+  * Total 
+ ![impact-dashboard-2x](image.png)
+ 
+
+
+What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+Agriculture
+Arts
+Clothing
+Construction
+Education
+Entertainment
+Food
+Health
+Housing
+Manufacturing
+Personal Use
+Retail
+Services
+Transportation
+Wholesale
+
 
 * How is your company performing relative to competitors in the same domain?
 Let take a look to Kiva few competitors that operate in same market niche.
@@ -68,7 +95,7 @@ Let take a look to Kiva few competitors that operate in same market niche.
 
      
   * Women’s Microfinance Initiative (WMI): Women’s Microfinance Initiative (WMI) began issuing loans in 2008 and trains local women in managing loan hubs. WMI has loaned more than $4.5 million to rural women in amounts of $100 to $250 at an interest rate of 10 percent. According to WMI, 99 percent of its borrowers report doubling their income within six months of being involved in the program. WMI reports a 98 percent repayment rate.
-  
+
  Introducing Kiva Protocol, an exciting new initiative to give unbanked people digital identity and secure control over their own credit information.
 Kiva, Sierra Leone and U.N. agencies announced the first implementation of the Kiva Protocol on Sept. 27, 2018, at the U.N. General Assembly. The Kiva Protocol will be used to create a nationwide digital identification system designed to help the country’s 7 million citizens access the financial services they need to improve their lives.
 
@@ -86,4 +113,8 @@ The new Kiva Protocol is designed to address these barriers by using distributed
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+# 
+## Sources
+* 
 
