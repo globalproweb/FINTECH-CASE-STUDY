@@ -62,9 +62,9 @@ What solution does this company offer that their competitors do not or cannot of
    * Through Kiva's work, students can pay for tuition, women can start businesses, farmers are able to invest in equipment and families can afford needed emergency care.
 
 
-* Key Metrics 
-  * Total 
- ![impact-dashboard-2x](image.png)
+* Kiva Key Metrics 
+   
+ ![alt text](https://www-kiva-org.global.ssl.fastly.net/cms/page/images/impact-dashboard-2x.png)
  
 
 
