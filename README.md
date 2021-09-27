@@ -29,25 +29,23 @@
 * What makes Kiva unique is that they believe lending alongside thousands of others is one of the most powerful and sustainable ways to create economic and social good. 
 * What specific financial problem is the company or project trying to solve?
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 * Kiva Intended Customers 
   *  Underserved individuals such as women / Single parents
   *  Under businesses globally in the following  Categories
-Agriculture
-Arts
-Clothing
-Construction
-Education
-Entertainment
-Food
-Health
-Housing
-Manufacturing
-Personal Use
-Retail
-Services
-Transportation
+Agriculture,
+Arts,
+Clothing,
+Construction,
+Education,
+Entertainment,
+Food,
+Health,
+Housing,
+Manufacturing,
+Retail,
+Services,
+Transportation, and
 Wholesale
 
 * Kiva's market size
@@ -74,11 +72,31 @@ Kiva has a unique solution to the peer to peer lending
 
 * Kiva is in Lending domain of the financial industry - their motto: Loans that change lives
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Major Trends and innivation of lending domain
+hat have been the major trends and innovations of this domain over the last 5-10 years?
+According to an article published by Lendfoundry on Brief History of Lending Innovations.there are 5 Major Innovations in the History of Lending Technology
+   
+   * 1930s: The National Bank of St. Louis, Missouri, introduced for the first time  the drive-up bank also known as the drive-up teller This was a time when both banking and cars were considered a luxury and thus it was a new and bold move for that time
+   * 1950s: The advent of the plastic card -The credit card has been an absolute boon to customers by making easy credit accessible to them
+   * 1970s: Money when you want it with ATMs-The Automated Teller Machine (ATM) was truly an innovation of the future when it was first unveiled and installed in New York in the year 1969, by the Chemical Bank.
+   * 2000s: Mobile banking and phone apps.With the advent of smartphones, fintech has further evolved at a radical pace.
+   * Fintech revolution : Today With fintech creating solutions for the lending industry, Fintech offers loan origination tools that use multivariate regression analysis that cover a large number of borrower variables such as their credit scores, ratios such as debt-to-income ratio, loan-to-value ratio, annual percentage rate among others to help find credit worthy applicants and the right lending rate through 
+   • Online lenders - P2P platforms - Supply chain lenders - Mobile lenders - Market platforms.
+ 
 
 * Other major companies in this domain are: 
-  * Lendio
-  * Lending Club
+  * Lendio (USA)
+  * Lending Club (USA)
+  * Lendistry (USA)
+  * Kabbage (AMex) (USA)
+  * SmartBiz Loans (USA)
+  * OnDeck (USA)
+  * Nav (USA)
+  * Women’s Microfinance Initiative (WMI) (Intertaional)
+  * Building Resources Across Communities (BRAC) (Intertaional)
+  * Zidisha  (Intertaional)
+
+
 
 
 #
@@ -138,3 +156,5 @@ The new Kiva Protocol is designed to address these barriers by using distributed
 ## Sources
 * Kiva - https://www-kiva-org.global.ssl.fastly.net/cms/page/images/impact-dashboard-2x.png
 * Growwire -https://www.growwire.com/kiva
+* Meredith Charney - https://borgenproject.org/4-microlending-organizations-that-empower-the-poor/
+* Lendfoundry - https://lendfoundry.com/blog/brief-history-of-lending-innovations/
