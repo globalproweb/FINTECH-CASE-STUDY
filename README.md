@@ -1,6 +1,6 @@
 # FINTECH CASE STUDY
 * By Jean-Pierre Koudifo
-* Date: 09-24-2021
+* Date: 10-01-2021
 * Fintech Domain: Lending
 #
 
@@ -17,7 +17,7 @@
 
 * Founder: Jessica Jackley, Premal Shah, Matt Flannery, Chelsa Bocci
 
-* How all started: Kiva founders Matt and Jessica Flannery were newlyweds working in East Africa when they came up with the idea for Kiva. They were inspired by a lecture by the Nobel Peace Prize laureate Muhammad Yunus, a social entrepreneur, and the founder of Grameen Bank. In March 2005, Kiva.org made its first loan to a woman in Uganda named Elizabeth, who used the $500 loan to expand her fishmongering business off the coast of Lake Victoria. By November 2006, over 1,000 women had applied for Kiva loans. By the end of that first year, Kiva had lent $1 million to women.(1)
+* How all started: Kiva founders Matt and Jessica Flannery were newlyweds working in East Africa when they came up with the idea for Kiva. They were inspired by a lecture by the Nobel Peace Prize laureate Muhammad Yunus, a social entrepreneur, and the founder of Grameen Bank. In March 2005, Kiva.org made its first loan to a woman in Uganda named Elizabeth, who used the $500 loan to expand her fishmongering business off the coast of Lake Victoria. By November 2006, over 1,000 women had applied for Kiva loans. By the end of that first year, Kiva had lent $1 million to women.(5)
 
 * Endowment: $27,389,839
 #
@@ -51,7 +51,7 @@ Wholesale
    * Kiva serves borrowers in more than 80 countries on 5 continents
 ![alt text](https://www.kiva.org/cms/where_map.png)
 
-  * To date, nearly 2 million lenders have used Kiva to loan more than $1 billion to 3 million borrowers in 81 countries- **Growire**
+  * To date, nearly 2 million lenders have used Kiva to loan more than $1 billion to 3 million borrowers in 81 countries- (**2**)
 * Kiva's unique solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) 
 Kiva has a unique solution to the peer to peer lending  
 
@@ -72,15 +72,15 @@ Kiva has a unique solution to the peer to peer lending
 * Kiva is in Lending domain of the financial industry - their motto: Loans that change lives
 
 * Major Trends and innivation of lending domain
-hat have been the major trends and innovations of this domain over the last 5-10 years?
-According to an article published by Lendfoundry on Brief History of Lending Innovations.there are 5 Major Innovations in the History of Lending Technology
+
+  According to an article published by Lendfoundry on Brief History of Lending Innovations.there are 5 Major Innovations in the History of Lending Technology
    
    * 1930s: The National Bank of St. Louis, Missouri, introduced for the first time  the drive-up bank also known as the drive-up teller This was a time when both banking and cars were considered a luxury and thus it was a new and bold move for that time
    * 1950s: The advent of the plastic card -The credit card has been an absolute boon to customers by making easy credit accessible to them
    * 1970s: Money when you want it with ATMs-The Automated Teller Machine (ATM) was truly an innovation of the future when it was first unveiled and installed in New York in the year 1969, by the Chemical Bank.
    * 2000s: Mobile banking and phone apps.With the advent of smartphones, fintech has further evolved at a radical pace.
    * Fintech revolution : Today With fintech creating solutions for the lending industry, Fintech offers loan origination tools that use multivariate regression analysis that cover a large number of borrower variables such as their credit scores, ratios such as debt-to-income ratio, loan-to-value ratio, annual percentage rate among others to help find credit worthy applicants and the right lending rate through 
-   • Online lenders - P2P platforms - Supply chain lenders - Mobile lenders - Market platforms.
+   • Online lenders - P2P platforms - Supply chain lenders - Mobile lenders - Market platforms.(3)
  
 
 * Other major companies in this domain are: 
@@ -103,17 +103,13 @@ According to an article published by Lendfoundry on Brief History of Lending Inn
 
 * Business Impacts 
    * Kiva crowdfunding loans is unlocking capital for the underserved, improving the quality and cost of financial services, and addressing the underlying barriers to financial access around the world. 
+   
+   * Kiva lenders crowdfund an average of $2.5 million in loans each week, creating a unique, renewable pool of funds that is reshaping access to financial services around the world
 
-   * Through Kiva's work, students can pay for tuition, women can start businesses, farmers are able to invest in equipment and families can afford needed emergency care.
+   * Through Kiva's work, students can pay for tuition, women can start businesses, farmers are able to invest in equipment and families can afford needed emergency care.(1)
 
 
-* Kiva Key Metrics 
-  * Amount of Loans funded
-  * Number of Borrowers
-  * Number of lenders
-  * Repayment rate
-  * Gender rate ( 81% of Kiva borrowers are female) 
-  * The table below shows the Kiva Key metrics by numbers.
+
    
  ![alt text](https://www-kiva-org.global.ssl.fastly.net/cms/page/images/impact-dashboard-2x.png)
  
@@ -133,40 +129,47 @@ According to an article published by Lendfoundry on Brief History of Lending Inn
 
   * Net Charge-Off Rate: The net charge-off rate is the difference between gross charge-offs and any 	subsequent recoveries of delinquent debt
 
-  * Customer Acquisition Cost; This key financial measurement is the ratio of a borrower’s lifetime value to a borrower’s 	acquisition cost.
+  * Customer Acquisition Cost; This key financial measurement is the ratio of a borrower’s lifetime value to a borrower’s 	acquisition cost. (6)
 
- KIVA does not performe based on the abpve metrics due to its non profit nature. 
+ KIVA does not performe based on the above metrics due to its non profit nature. 
+ * Kiva Key Metrics 
+    * Amount of Loans funded : $1.6 Billion
+    * Number of Borrower: 3.9 Million
+    * Number of lenders: 2.0 Million
+    * Repayment rate: 96.2%
+   * Gender rate ( 81% of Kiva borrowers are female) 
+   * The table below shows the Kiva Key metrics by numbers.
 
-* Kiva Performance against COmpetitor: Let take a look to Kiva few competitors that operate in same market niche.
-  1.  Zidisha, Zidisha is the first direct person-to-person microlending service that focuses on entrepreneurs and job creation. Its name” comes from the Swahili word meaning “grow.” Unlike Kiva, Zidisha does not loan through financial institutions but facilitates direct lending between people
+* Kiva Performance against Competitors: Let take a look to Kiva few competitors that operate in same market niche.
+  1.  Zidisha, Zidisha is the first direct person-to-person microlending service that focuses on entrepreneurs and job creation. Its name” comes from the Swahili word meaning “grow.” Unlike Kiva, Zidisha does not loan through financial institutions but facilitates direct lending between people (4)
   
-  2. Building Resources Across Communities: Building Resources Across Communities (BRAC) is the largest non-governmental development organization in the world in terms of number of employees. Hasan founded BRAC in 1972 and it employs more than 120,000 people in 11 countries. BRAC has a microfinance program, primarily in Bangladesh, which has loaned to 5.6 million borrowers, 87 percent of whom are women. Unlike Kiva and Zidisha, which operate person-to-person lending services, BRAC distributes loans to lenders on its own using donations and other funds. BRAC also does work unrelated to microfinance, investing in schools and in water, hygiene and sanitation services.
+  2. Building Resources Across Communities: Building Resources Across Communities (BRAC) is the largest non-governmental development organization in the world in terms of number of employees. Hasan founded BRAC in 1972 and it employs more than 120,000 people in 11 countries. BRAC has a microfinance program, primarily in Bangladesh, which has loaned to 5.6 million borrowers, 87 percent of whom are women. Unlike Kiva and Zidisha, which operate person-to-person lending services, BRAC distributes loans to lenders on its own using donations and other funds. BRAC also does work unrelated to microfinance, investing in schools and in water, hygiene and sanitation services. (4)
 
      
-  3. Women’s Microfinance Initiative (WMI): Women’s Microfinance Initiative (WMI) began issuing loans in 2008 and trains local women in managing loan hubs. WMI has loaned more than $4.5 million to rural women in amounts of $100 to $250 at an interest rate of 10 percent. According to WMI, 99 percent of its borrowers report doubling their income within six months of being involved in the program. WMI reports a 98 percent repayment rate.
+  3. Women’s Microfinance Initiative (WMI): Women’s Microfinance Initiative (WMI) began issuing loans in 2008 and trains local women in managing loan hubs. WMI has loaned more than $4.5 million to rural women in amounts of $100 to $250 at an interest rate of 10 percent. According to WMI, 99 percent of its borrowers report doubling their income within six months of being involved in the program. WMI reports a 98 percent repayment rate. (4)
 
- Introducing Kiva Protocol, an exciting new initiative to give unbanked people digital identity and secure control over their own credit information.
-Kiva, Sierra Leone and U.N. agencies announced the first implementation of the Kiva Protocol on Sept. 27, 2018, at the U.N. General Assembly. The Kiva Protocol will be used to create a nationwide digital identification system designed to help the country’s 7 million citizens access the financial services they need to improve their lives.
+Kiva work is unique, Kiva has prouved itself to be a global leader in  NGO lending market niche.  As a technology-driven international nonprofit with 15 years of experience in microcredit lending, Kiva is uniquely positioned to build, test, and measure the impact of new products and innovations to expand opportunity for underserved people and communities and to increase global financial access. Kiva just Introduce Kiva Protocol, an exciting new initiative to give unbanked people digital identity and secure control over their own credit information. 
 
-Globally, 1.7 billion adults are unbanked, including 80% of the citizens of Sierra Leone. Two of the major barriers to accessing financial services are a lack of formal identification and a lack of verifiable credit history.
-
-The new Kiva Protocol is designed to address these barriers by using distributed ledger technology to issue digital identification to all citizens. Through the Kiva Protocol, both formal and informal financial institutions (from banks to shopkeepers giving credit) can help contribute to a person’s credit history.
-
-
+#
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+The  lending domain has many riks.  Exploring and developing financial products across new markets is risky. There are many risks in the current Kiva's business model.
+* Borrower risk
+* Field Partner risk
+* Direct loan risk
+* Country risk
+* Currency risk
 
-* Why do you think that offering this product or service would benefit the company?
+KIVA current business model relies heavily on in country  field partners  to manage its loans and operations. To mitigate the risks associated with its  current business model;  I suggest a Hub and Spoke Business approach  where KIVA keeps its  headquarters in Francisco but operate from multiple regional offices or coworking spaces across the globe. The hub and spoke model refer to a distribution method in which a centralized "hub" exists, and  spokes are a geographically distributed network of offices across the globe. 
 
-* What technologies would this additional product or service utilize?
+Globally, 1.7 billion adults are unbanked. There is always a need to provide  access  to capital in rural areas across the globe where traditional banking cannot through a Mobile phone money lending.  With access to cell phone on the remote areas in the developing countries,  Kiva can add  new initiative to give unbanked people digital identity and secure control over their own credit information
 
-* Why are these technologies appropriate for your solution?
 
 # 
 ## Sources
-* Kiva - https://www-kiva-org.global.ssl.fastly.net/cms/page/images/impact-dashboard-2x.png
-* Growwire -https://www.growwire.com/kiva
-* Meredith Charney - https://borgenproject.org/4-microlending-organizations-that-empower-the-poor/
-* Lendfoundry - https://lendfoundry.com/blog/brief-history-of-lending-innovations/
-* Hassan Hijazi How we got to $1 billion: A look at Kiva’s history https://pages.kiva.org/blog/how-we-got-to-1-billion-a-look-at-kivas-history
+1. Kiva - https://www-kiva-org.global.ssl.fastly.net/cms/page/images/impact-dashboard-2x.png
+2. Growwire -https://www.growwire.com/kiva
+3. Meredith Charney - https://borgenproject.org/4-microlending-organizations-that-empower-the-poor/
+4. Lendfoundry - https://lendfoundry.com/blog/brief-history-of-lending-innovations/
+5. Hassan Hijazi How we got to $1 billion: A look at Kiva’s history https://pages.kiva.org/blog/how-we-got-to-1-billion-a-look-at-kivas-history
+6.  Jake Levant: The 8 Most Important Lending KPIs https://www.lightico.com/blog/lending-kpis-most-important/
