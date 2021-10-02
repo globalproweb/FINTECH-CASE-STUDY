@@ -17,8 +17,7 @@
 
 * Founder: Jessica Jackley, Premal Shah, Matt Flannery, Chelsa Bocci
 
-
-* How did the idea for the company (or project) come about?
+* How all started: Kiva founders Matt and Jessica Flannery were newlyweds working in East Africa when they came up with the idea for Kiva. They were inspired by a lecture by the Nobel Peace Prize laureate Muhammad Yunus, a social entrepreneur, and the founder of Grameen Bank. In March 2005, Kiva.org made its first loan to a woman in Uganda named Elizabeth, who used the $500 loan to expand her fishmongering business off the coast of Lake Victoria. By November 2006, over 1,000 women had applied for Kiva loans. By the end of that first year, Kiva had lent $1 million to women.(1)
 
 * Endowment: $27,389,839
 #
@@ -120,19 +119,31 @@ According to an article published by Lendfoundry on Brief History of Lending Inn
  
 
 
-What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* Core metrics that companies in this domain use: 
 
+  * 	Pull Through Rate: This KPI measures pipeline efficiency by dividing total funded loans by the number of applications submitted during a defined period.
 
+  * Decision to Close Time Cycle: The decision to close time cycle provides information about the number of days required to close and fund a loan after the underwriting decision has been made
 
+  *	Abandoned Loan Rate: Abandoned loan rate measures the percentage of loan applications that are abandoned by 	a borrower after they have been approved by the lender
 
-* How is your company performing relative to competitors in the same domain?
-Let take a look to Kiva few competitors that operate in same market niche.
-  * Zidisha, Zidisha is the first direct person-to-person microlending service that focuses on entrepreneurs and job creation. Its name” comes from the Swahili word meaning “grow.” Unlike Kiva, Zidisha does not loan through financial institutions but facilitates direct lending between people
+  * Average Origination Value: The average origination value measures the total revenue earned for each loan over a given time.
+
+  * Application Approval Rate: This metric is calculated by dividing the amount of approved applications by the amount 	of submitted applications
+
+  * Net Charge-Off Rate: The net charge-off rate is the difference between gross charge-offs and any 	subsequent recoveries of delinquent debt
+
+  * Customer Acquisition Cost; This key financial measurement is the ratio of a borrower’s lifetime value to a borrower’s 	acquisition cost.
+
+ KIVA does not performe based on the abpve metrics due to its non profit nature. 
+
+* Kiva Performance against COmpetitor: Let take a look to Kiva few competitors that operate in same market niche.
+  1.  Zidisha, Zidisha is the first direct person-to-person microlending service that focuses on entrepreneurs and job creation. Its name” comes from the Swahili word meaning “grow.” Unlike Kiva, Zidisha does not loan through financial institutions but facilitates direct lending between people
   
-  * Building Resources Across Communities: Building Resources Across Communities (BRAC) is the largest non-governmental development organization in the world in terms of number of employees. Hasan founded BRAC in 1972 and it employs more than 120,000 people in 11 countries. BRAC has a microfinance program, primarily in Bangladesh, which has loaned to 5.6 million borrowers, 87 percent of whom are women. Unlike Kiva and Zidisha, which operate person-to-person lending services, BRAC distributes loans to lenders on its own using donations and other funds. BRAC also does work unrelated to microfinance, investing in schools and in water, hygiene and sanitation services.
+  2. Building Resources Across Communities: Building Resources Across Communities (BRAC) is the largest non-governmental development organization in the world in terms of number of employees. Hasan founded BRAC in 1972 and it employs more than 120,000 people in 11 countries. BRAC has a microfinance program, primarily in Bangladesh, which has loaned to 5.6 million borrowers, 87 percent of whom are women. Unlike Kiva and Zidisha, which operate person-to-person lending services, BRAC distributes loans to lenders on its own using donations and other funds. BRAC also does work unrelated to microfinance, investing in schools and in water, hygiene and sanitation services.
 
      
-  * Women’s Microfinance Initiative (WMI): Women’s Microfinance Initiative (WMI) began issuing loans in 2008 and trains local women in managing loan hubs. WMI has loaned more than $4.5 million to rural women in amounts of $100 to $250 at an interest rate of 10 percent. According to WMI, 99 percent of its borrowers report doubling their income within six months of being involved in the program. WMI reports a 98 percent repayment rate.
+  3. Women’s Microfinance Initiative (WMI): Women’s Microfinance Initiative (WMI) began issuing loans in 2008 and trains local women in managing loan hubs. WMI has loaned more than $4.5 million to rural women in amounts of $100 to $250 at an interest rate of 10 percent. According to WMI, 99 percent of its borrowers report doubling their income within six months of being involved in the program. WMI reports a 98 percent repayment rate.
 
  Introducing Kiva Protocol, an exciting new initiative to give unbanked people digital identity and secure control over their own credit information.
 Kiva, Sierra Leone and U.N. agencies announced the first implementation of the Kiva Protocol on Sept. 27, 2018, at the U.N. General Assembly. The Kiva Protocol will be used to create a nationwide digital identification system designed to help the country’s 7 million citizens access the financial services they need to improve their lives.
@@ -158,3 +169,4 @@ The new Kiva Protocol is designed to address these barriers by using distributed
 * Growwire -https://www.growwire.com/kiva
 * Meredith Charney - https://borgenproject.org/4-microlending-organizations-that-empower-the-poor/
 * Lendfoundry - https://lendfoundry.com/blog/brief-history-of-lending-innovations/
+* Hassan Hijazi How we got to $1 billion: A look at Kiva’s history https://pages.kiva.org/blog/how-we-got-to-1-billion-a-look-at-kivas-history
